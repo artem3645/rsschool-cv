@@ -1,0 +1,26 @@
+
+.line{
+    width: 40px;
+    height: 100%;
+    position: fixed;
+    border-right: 1px solid;
+}
+
+.content{
+    margin-left: 50px;
+}
+
+.avatarka{
+    width: 100px;
+    height: 100px;
+}
+
+footer{
+    display: flex;
+}
+
+footer img{
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+}
